@@ -1,0 +1,11 @@
+ENTRENADOR PATRÓN DE YATE
+
+1. Descomprime este ZIP.
+2. Entra en la carpeta Entrenador_Patron_de_Yate.
+3. Abre index.html con Safari, Chrome, Firefox o Edge.
+4. Selecciona bloque y modo de estudio.
+5. Para las preguntas con dibujos, abre el PDF original mediante el enlace del test.
+
+La web funciona sin internet y guarda estadísticas locales en ese navegador.
+No elimines la carpeta pdfs: contiene las 20 convocatorias originales.
+Total: 797 preguntas extraídas con respuesta oficial. Tres preguntas omitidas por problemas de maquetación.
